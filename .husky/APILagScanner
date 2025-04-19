@@ -1,0 +1,23 @@
+
+---
+
+### **2. 40_APILagScanner**  
+**Description:**  
+Scans APIs and identifies latency spikes, status drops, and regional inconsistencies.
+
+#### **README.md**
+```markdown
+# APILagScanner - Endpoint Latency + Status Tracker
+
+APILagScanner is a lightweight tool for identifying API bottlenecks and slow response trends.
+
+## Features
+- Status + latency logs  
+- Burst detection  
+- JSON / CSV export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/40_APILagScanner.git
+cd 40_APILagScanner
+python monitor.py
